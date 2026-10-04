@@ -5,8 +5,8 @@ Institut Teknologi Del, Semester 5
 
 | | |
 |---|---|
-| **Nama** | [Lyson P.E. Manik] |
-| **NIM** | [11S24024] |
+| **Nama** | Lyson P.E. Manik |
+| **NIM** | 11S24024 |
 | **Mata Kuliah** | 11S3242, Kecerdasan Buatan (P) |
 | **Topik** | Local Search |
 
